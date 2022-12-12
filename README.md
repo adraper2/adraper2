@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m a Data Engineer at WeWork. I maintain our People data.
-- ⚡ Checkout [our open tech roles](https://careers.wework.com/job-search-results/?category[]=Technology).
+- 🖥️ Shameless [plug](https://aidandraper.com) to my personal site.
+- ⚡ Checkout [WeWork's open tech roles](https://careers.wework.com/job-search-results/?category[]=Technology).
 
 <!--
 **adraper2/adraper2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
