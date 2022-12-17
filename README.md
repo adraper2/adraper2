@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <!--
-updated this from my phone 🤯
+updated this from my phone 🤯 
 -->
 
 📊 &nbsp;**This week I spent my time in**
