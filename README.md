@@ -5,7 +5,9 @@
 - ⚡ Checkout [WeWork's open tech roles](https://careers.wework.com/job-search-results/?category[]=Technology).
 
 ### Some stats about me 📊
-
+<!--START_SECTION:waka-->
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=adraper2&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<!--END_SECTION:waka-->
 <!--
 updated this from my phone 🤯 
 -->
