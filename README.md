@@ -31,3 +31,9 @@ Markdown     3 mins          █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+#### Follow me around
+<a href="https://www.linkedin.com/in/aidan-draper" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/adraper19" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://open.spotify.com/user/adraper19" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=adraper2/adraper2)
