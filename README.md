@@ -21,7 +21,7 @@ updated this from my phone 🤯
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 December 2022 - To: 01 January 2023
+From: 26 December 2022 - To: 02 January 2023
 
 Total Time: 5 hrs 5 mins
 
