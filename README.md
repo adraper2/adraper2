@@ -21,12 +21,7 @@ updated this from my phone 🤯
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 January 2023 - To: 12 January 2023
-
-Total Time: 3 hrs 25 mins
-
-Python   2 hrs 56 mins   █████████████████████▒░░░   85.88 %
-conf     29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
