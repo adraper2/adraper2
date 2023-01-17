@@ -2,7 +2,6 @@
 
 - 🔭 I’m a Data Engineer at WeWork. I maintain our People data.
 - 🖥️ Shameless [plug](https://aidandraper.com) to my personal site.
-- ⚡ Checkout [WeWork's open tech roles](https://careers.wework.com/job-search-results/?category[]=Technology).
 
 ### My Activity 📊
 <!--
