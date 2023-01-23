@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m a Data Engineer at WeWork. I maintain our People data.
-- 🖥️ Shameless [plug](https://aidandraper.com) to my personal site.
+- 🔭 I’m a Data Engineer and currenty open to work. Message me on [LinkedIn](https://www.linkedin.com/in/aidan-draper) to connect!
+- 🖥️ Here is a [plug](https://aidandraper.com) to my portfolio site.
 
 ### My Activity 📊
 <!--
