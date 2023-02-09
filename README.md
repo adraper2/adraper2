@@ -20,6 +20,10 @@ updated this from my phone 🤯
 <!--START_SECTION:waka-->
 
 ```text
+From: 01 February 2023 - To: 08 February 2023
+
+Total Time: 0 secs
+
 No activity tracked
 ```
 
