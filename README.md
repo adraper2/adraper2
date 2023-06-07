@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a Data Engineer and currenty open to work. Message me on [LinkedIn](https://www.linkedin.com/in/aidan-draper) to connect!
+- 🔭 I’m a Data Engineer at [Restaurant365](https://www.restaurant365.com). Message me on [LinkedIn](https://www.linkedin.com/in/aidan-draper) to connect!
 - 🖥️ Here is a [plug](https://aidandraper.com) to my portfolio site.
 
 ### My Activity 📊
