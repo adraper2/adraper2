@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m a Software Engineer and currently **Open to Work**. Message me on [LinkedIn](https://www.linkedin.com/in/aidan-draper) to connect!
-- 🖥️ Here is a [plug](https://aidandraper.com) to my portfolio site.
+- 🔭 I’m a former Software Engineer and definitely not open to work. Message me on [LinkedIn](https://www.linkedin.com/in/aidan-draper) to connect!
+- 🖥️ Here was my [plug](https://aidandraper.com) to my portfolio site. I stopped paying for the domain (LOL).
 
 ### My Activity 📊
-
+(TLDR: None)
 <!--
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=adraper2&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 -->
